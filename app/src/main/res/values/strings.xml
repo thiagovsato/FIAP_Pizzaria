@@ -26,4 +26,5 @@
     <string name= "txt_cartao">Cartao</string>
     <string name= "txt_vr">VR</string>
     <string name= "txt_dinheiro">Dinheiro</string>
+    <string name= "txt_error">Senha ou login inválido</string>
 </resources>
